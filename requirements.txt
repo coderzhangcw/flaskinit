@@ -1,0 +1,7 @@
+flask
+flask-session
+flask-sqlalchemy
+psycopg2
+redis
+# flask-script
+flask-migrate
